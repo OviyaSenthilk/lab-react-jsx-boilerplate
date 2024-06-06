@@ -1,1 +1,5 @@
 /* add your styles here */
+*{
+ background-repeat: no-repeat;
+    background-color: rgb(123, 120, 114);
+}
